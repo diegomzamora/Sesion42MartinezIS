@@ -181,7 +181,7 @@
                                 <ul class="footer-links">
                                         <li><i class="fa fa-map-marker"></i>Av. Tezozómoc s/n, Colonia Alfredo Baranda, Valle de Chalco, Edo. de Méx. </li>
                                         <li><i class="fa fa-phone"></i>1708 5959</li>
-                                        <li><i class="fa fa-envelope-o"></i>kenia.ayala@tuvch.ibero.mx</li>
+                                        <li><i class="fa fa-envelope-o"></i>Martinez Zamora Diego Alonso</li>
                                 </ul>
                             </div>
 
